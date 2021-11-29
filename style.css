@@ -1,0 +1,19 @@
+#screamImg{
+    width:250px;
+    height:400px;
+}
+
+#smileyImg{
+    width:200px;
+    height:200px;
+}
+
+/* Pseudo classes */
+/* A pseudo-class is used to define a special state of an element. */
+a:hover {
+    color: orangered;
+}
+
+a:active{
+    color: chocolate;
+}
